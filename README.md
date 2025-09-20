@@ -39,14 +39,12 @@ QFlowEDA is a data analysis and machine learning toolkit designed for efficient 
 - `.gitignore`  
   Git tracking settings.
 
-- `LICENSE.txt`  
-  License information.
 
 ## Getting Started
 
 1. **Clone the repository:**
    ```
-   git clone <repo-url>
+   git clone https://github.com/Astraflaneur/QFlowEDA/
    ```
 2. **Install dependencies:**  
    Ensure you have Python 3.x and required packages (see notebook headers or requirements in scripts).
